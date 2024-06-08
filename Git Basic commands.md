@@ -1,7 +1,9 @@
-# Welcome to GitHub! #
+# Welcome to Git! #
 
 ## Introduction##
-GitHub is a web-based platform used for version control and collaboration on projects. It provides tools for developers to manage code repositories, track changes, and collaborate with others on software projects.
+Git is a popular version control system used to track changes in source code during software development. It is widely used by developers to collaborate on projects and manage code repositories efficiently.
+
+This README provides an introduction to using Git on Linux, including installation instructions and common commands.
 
 ## Getting Started with GitHub ##
 If you're new to GitHub, here are some basic steps to get started:
