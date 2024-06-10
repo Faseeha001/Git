@@ -46,16 +46,23 @@ Common GitHub Commands
    ![image](https://github.com/Faseeha001/Git/assets/169563689/95b79a29-a5e1-460b-9512-27f95a0cf720)
    
 5. **git push**: Push committed changes to a remote repository (e.g., GitHub).
+   
     ![image](https://github.com/Faseeha001/Git/assets/169563689/c0a49c89-7d04-4e7d-9729-aa81a1dd7db3)
 
-6. **git pull**: Pull changes from a remote repository to your local machine.
-7. **git branch**: List, create, or delete branches.
+7. **git pull**: Pull changes from a remote repository to your local machine.
+   
+ <img width="581" alt="image" src="https://github.com/Faseeha001/Git/assets/169563689/a8f04998-8c73-45ac-8952-aa57dcc424ef">
+
+9. **git branch**: List, create, or delete branches.
    ![image](https://github.com/Faseeha001/Git/assets/169563689/ee821da6-184b-4715-b676-cce0fbe959a1)
 
-8. **git checkout <branch-name>**: Switch to a different branch.
+10. **git checkout <branch-name>**: Switch to a different branch.
     ![image](https://github.com/Faseeha001/Git/assets/169563689/573a3c89-3128-4bb4-86fa-5e5b6bac891c)
 
-9. ****git merge <branch-name>: Merge changes from one branch into another.
+11. ****git merge <branch-name>: Merge changes from one branch into another.
+
+ <img width="685" alt="image" src="https://github.com/Faseeha001/Git/assets/169563689/20597f80-e3b4-4816-95c8-89e6d25c60c1">
+
     
 For more information on Git and GitHub commands, refer to the official Git documentation and GitHub's help documentation.
 
